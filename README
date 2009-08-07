@@ -1,0 +1,4 @@
+Depends on Apache HTTPCLIENT v 4 found here: http://hc.apache.org/httpcomponents-client/index.html
+As well as Oauth Signpost, found here: http://code.google.com/p/oauth-signpost/
+For basic get requests (without oauth) it only requires java.
+For 'post' and oauth authentication, it requires signpost and Apache HTTPCLIENT.
